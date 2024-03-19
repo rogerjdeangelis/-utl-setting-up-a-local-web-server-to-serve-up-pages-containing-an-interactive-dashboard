@@ -4,6 +4,10 @@ Setting up a local web server to serve up pages containing an interactive dashbo
 
     Setting up a local web server to serve up pages containing an interactive dashboard
 
+    github                                                                                                                     
+    https://tinyurl.com/3dsavkjj                                                                                               
+    https://github.com/rogerjdeangelis/-utl-setting-up-a-local-web-server-to-serve-up-pages-containing-an-interactive-dashboard
+
     Source for this post
     https://github.com/RamiKrispin/shinylive-r?tab=readme-ov-file
 
